@@ -1,4 +1,4 @@
-*Concordium Hackathon 2023 submission (Task 2)*
+Concordium Hackathon 2023 submission (Task 2)
 
 Procedure followed from the given instructions on https://docs.google.com/document/d/1yKb_5O9nCxfB8xFrQ0Yv0nimgggP3ouGsp-UmMHELtM/edit, and deployment instructions given on https://developer.concordium.software/en/mainnet/smart-contracts/guides/deploy-module.html.
 
