@@ -20,4 +20,5 @@ Invoke contract with throwErrorFalse.json-
 
 
 If there are any issues with verifying this submission, please contact us via email at crypto@hazeventures.co
+
 Concordium mainnet address: 36ffGA7txXLFFZKDodisMaDAXsw9y7eFgPdwssKsC5gPuyjZFJ
