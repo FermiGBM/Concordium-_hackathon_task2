@@ -12,7 +12,7 @@ f075d6f9712aec834c4a0ac23fe30f618f13497ec858592004ca3d59634f0277
 Initialization- 
 dc54e3ceef58ace8d27546857855cb303698de840769af5008954712383ca5c6
 
-Update parameter with throwErrorFalse.json- 
+Update state with throwErrorFalse.json- 
 14ff270e7f8b8f12c792803eb3ebfbb7acf606dbbef326b3544e8be3d8c07b8f
 
 Invoke contract with throwErrorFalse.json-
